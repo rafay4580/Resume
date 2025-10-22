@@ -1,0 +1,42 @@
+*{
+    background-color: rgb(94, 91, 91);
+}
+h1{
+    color: rgb(116, 23, 7);
+}
+h2{
+    color: rgb(146, 63, 4);
+}
+.rafay1{
+    color: rgb(44, 70, 82);
+}
+.Education{
+    color: rgb(30, 68, 68);
+}
+.Skills{
+    color: rgb(4, 65, 44);
+}
+.Language{
+    color: rgb(100, 60, 1);
+}
+.Contact *{
+    color: rgb(44, 44, 2);
+}
+.Personal *{
+    color: rgb(61, 3, 14);
+}
+.Three *{
+    color: rgb(11, 93, 151);
+}
+.Four  *{
+    color: rgb(78, 3, 79);
+}
+.Five * {
+   color: rgb(132, 8, 8);
+}
+.Six *{
+    color: rgb(6, 38, 98);
+}
+hr{
+    border-color:black;
+}
